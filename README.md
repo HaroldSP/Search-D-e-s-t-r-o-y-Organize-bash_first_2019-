@@ -4,4 +4,6 @@
 
 2) This project allows to download Mavlink, configure, build and install
 
-3) This project allows to parse different web pages, like in that case election results web site, collect data and visualize it
+3) This project allows to parse different web pages, like in that case election results web site, collect data and visualize it. Requires Anaconda and various modules like pandas and geopandas
+
+5) Counts rewards for blocks in ETH blockchain. Script made in google collab.
